@@ -1,0 +1,81 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+h1{
+            width: 100%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    padding: 0px 0px 10px 0px;
+        
+      }
+      
+   h2{
+     width: 100%;
+    font-style: normal;
+    font-size: 24px;
+    padding: 0px 0px 8px 0px;
+   }   
+   p{
+     margin: 0 0 20px;
+   }
+   th {
+  background-color: #04AA6D;
+  color: white;
+  padding: 15px;
+  text-align: left;
+}
+ td {
+  padding: 15px;
+  text-align: left;
+}
+   .link:link, .link:visited {
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.link:hover, .link:active {
+  background-color: red;
+}l 0.3s ease 0s;
+}
+
+input[type=text],input[type=email],input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=radio] {
+     opacity: 1;
+    }  
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
